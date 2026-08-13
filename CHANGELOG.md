@@ -2,3 +2,4 @@
 \# Changelog
 - Added int semester to Student structure
 - Added char email to Student structure
+- Changed char name[50] to char name[100]
