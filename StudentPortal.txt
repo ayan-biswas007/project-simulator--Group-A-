@@ -3,4 +3,11 @@ struct Student
     int id;
     char name[50];
     int age;
+    char name[100];
+    int age;
+    int semester;
+    char email[50];
+    char phone[20];
+    char gender[10];
+    float cgpa;
 };
