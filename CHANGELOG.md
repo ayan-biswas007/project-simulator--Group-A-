@@ -13,3 +13,5 @@
 * Added phone number field to Student structure
 * Added CGPA field to Student structure
 
+* Increased phone number capacity from 20 to 25 characters
+* Added address field to the student structure 
