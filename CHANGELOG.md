@@ -14,3 +14,4 @@
 * Added CGPA field to Student structure
 
 * Increased phone number capacity from 20 to 25 characters
+* added blood group to the student structure
