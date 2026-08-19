@@ -14,4 +14,5 @@ The system now stores the age of every student.
 * The system now stores the CGPA of every student
 
 * Increased Student phone number capacity from 20 to 25 characters
+* added blood group information to the student record 
 * The system now stores the home address of every student

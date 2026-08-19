@@ -8,5 +8,6 @@ struct Student
     char phone[25];
     char gender[10];
     float cgpa;
+    char bloodGroup[10];
     char address[100];
 };
