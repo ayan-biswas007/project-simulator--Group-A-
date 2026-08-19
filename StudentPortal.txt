@@ -10,4 +10,5 @@ struct Student
     float cgpa;
     char bloodGroup[10];
     char address[100];
+    char gurdianPhone[25];
 };
