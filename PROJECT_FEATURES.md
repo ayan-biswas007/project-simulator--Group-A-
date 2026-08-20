@@ -21,3 +21,4 @@ The system now stores the age of every student.
 * Added date of birth field to store student birthday details
 * Added student credit hours details 
 * Added increase address capacity
+* Added rename student name field
