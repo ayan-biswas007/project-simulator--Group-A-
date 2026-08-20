@@ -14,7 +14,7 @@
 * Added CGPA field to Student structure
 
 * Increased phone number capacity from 20 to 25 characters
-* added blood group to the student structure
+* Added student status to the student structure
 * Added address field to the student structure 
 * Added gurdian phone number field to student structure
 * Added student department section to student structrure
