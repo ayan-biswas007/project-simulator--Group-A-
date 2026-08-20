@@ -17,4 +17,4 @@
 * added blood group to the student structure
 * Added address field to the student structure 
 * Added gurdian phone number field to student structure
-* Added date of birth to student structure 
+* Update in readme to student structure 
