@@ -18,3 +18,4 @@ The system now stores the age of every student.
 * The system now stores the home address of every student
 * Added gurdian phone number field to student profiles for emergency contact
 * Added student department section
+* Added date of birth field to store student birthday details
