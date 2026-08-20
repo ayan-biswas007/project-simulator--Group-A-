@@ -5,3 +5,7 @@
 - README.md – Project information.
 - PROJECT_FEATURES.md – List of implemented features.
 - CHANGELOG.md – History of project changes.
+- Student 01 (Ayan Biswas)
+- Student 03 (Mazharul Islam Apon)
+- Student 04 (Apon Saha)
+- Student 02 (Ashfaq Khandaker)
