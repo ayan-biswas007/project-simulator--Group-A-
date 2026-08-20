@@ -20,3 +20,4 @@
 * Added student department section to student structrure
 * Added date of birth to student structure 
 * Added credits hours to student structure
+* Added student address capacity to student structure
