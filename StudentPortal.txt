@@ -1,6 +1,6 @@
 struct Student
 {
-    int id;
+    int studentId;
     char studentName[100];
     int age;
     int semester;
