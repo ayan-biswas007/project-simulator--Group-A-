@@ -13,4 +13,5 @@ struct Student
     char gurdianPhone[25];
     char department[50]
     char dob[15];
+    int creditHours[20];
 };
