@@ -11,4 +11,5 @@ struct Student
     char status[20];
     char address[100];
     char gurdianPhone[25];
+    char department[50];
 };
