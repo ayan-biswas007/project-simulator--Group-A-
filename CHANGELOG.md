@@ -17,3 +17,4 @@
 * added blood group to the student structure
 * Added address field to the student structure 
 * Added gurdian phone number field to student structure
+* Added student department section to student structrure
