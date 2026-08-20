@@ -11,5 +11,6 @@ struct Student
     char bloodGroup[10];
     char address[100];
     char gurdianPhone[25];
+    char department[50]
     char dob[15];
 };
