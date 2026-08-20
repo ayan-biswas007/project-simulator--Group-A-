@@ -9,3 +9,4 @@
 - Student 03 (Mazharul Islam Apon)
 - Student 04 (Apon Saha)
 - Student 02 (Ashfaq Khandaker).
+- Student Managment System is a simple project used to practice Git workflow management
