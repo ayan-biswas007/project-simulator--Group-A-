@@ -16,4 +16,5 @@
 * Increased phone number capacity from 20 to 25 characters
 * Added student status to the student structure
 * Added address field to the student structure 
-* Added rename student id field to student structure
+* Added gurdian phone number field to student structure
+* Update in readme to student structure 
