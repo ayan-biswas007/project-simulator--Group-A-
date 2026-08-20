@@ -4,11 +4,10 @@ struct Student
     char studentName[100];
     int age;
     int semester;
-    char email[50];
+    char email[100];
     char phone[25];
     char gender[10];
     float cgpa;
-    char bloodGroup[10];
     char department[50];
     int creditHours[20];
     char address[200];
