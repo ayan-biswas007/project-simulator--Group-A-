@@ -4,7 +4,7 @@ struct Student
     char studentName[100];
     int age;
     int semester;
-    char email[50];
+    char email[100];
     char phone[25];
     char gender[10];
     float cgpa;
